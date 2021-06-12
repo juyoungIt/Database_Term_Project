@@ -4,10 +4,10 @@ from rank_bm25 import BM25Okapi
 
 # database connection information
 db = pymysql.connect(
-    user='dbuser',
-    passwd='PYeongbong!376',
-    host='192.168.56.101',
-    db='Term_project',
+    user='username here...',
+    passwd='password here...',
+    host='ip address here...',
+    db='database name here...',
     charset='utf8mb4'
 )
 
